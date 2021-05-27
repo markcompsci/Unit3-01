@@ -1,5 +1,5 @@
 .ordered-list li:nth-child(odd) {
-  color: royalblue;
+  color: rgb(65, 105, 225);
 }
 
 .ordered-list li:nth-child(even) {
